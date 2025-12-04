@@ -1,0 +1,5 @@
+{
+  "name": "CP Random Generator",
+  "description": "A social tag-driven random pairing generator (La Lang Pei) that matches 'Gong' and 'Shou' roles from a dataset.",
+  "requestFramePermissions": []
+}
